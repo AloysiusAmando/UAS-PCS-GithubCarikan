@@ -10,29 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97b52f8e-e3b1-4fae-973e-5a8cc10120c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/api/Api.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/api/RetrofitClient.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/model/DetailUserResponse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/model/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/model/UserResponse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/ui/detail/DetailUserActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/ui/detail/DetailUserViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/ui/detail/FollowersFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/ui/detail/FollowersViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/ui/detail/FollowingFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/ui/detail/FollowingViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/ui/detail/SectionPagerAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/ui/main/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/ui/main/MainViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/githubcarikan/ui/main/UserAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_people.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_detail_user.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_follow.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/item_user.xml" afterDir="false" />
-    </list>
+    <list default="true" id="97b52f8e-e3b1-4fae-973e-5a8cc10120c9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
